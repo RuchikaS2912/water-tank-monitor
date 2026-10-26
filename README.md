@@ -30,7 +30,7 @@ npx expo start
 - [Troubleshooting](docs/TROUBLESHOOTING.md)
 
 ## Deployment
-Backend deployed on Railway: Auto-deploys from main branch
+Backend can be deployed on Render.com (free tier available)
 
 ## Hardware Requirements
 - ESP32 development board
